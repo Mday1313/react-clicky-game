@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Ape",
+      "image": "https://mymodernmet.com/wp/wp-content/uploads/2017/01/animal-selfies-5.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lemur",
+      "image": "http://earthporm.com/wp-content/uploads/2014/07/5-lemerfi.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Emu",
+      "image": "http://funnypicture.org/wallpaper/2015/03/funny-animals-pictures-22-cool-hd-wallpaper.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Monkey",
+      "image": "https://blazepress.com/.image/t_share/MTQ0NDM2OTUyNTMwMjMyNjM0/funniest-animal-selfies-ever-20jpg.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Llama",
+      "image": "https://www.bestfunnies.com/wp-content/uploads/2015/05/Funny-Dog-Selfies-9.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Camel",
+      "image": "https://pbs.twimg.com/profile_images/419915506049482753/syBNWZy7_400x400.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Cat",
+      "image": "http://amfblog.s3.amazonaws.com/wp-content/uploads/2015/01/Screen-shot-2015-01-08-at-11.51.33-AM.png"
+    },
+    {
+      "id": 8,
+      "name": "Sloth",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/leticia-colombia-royalty-free-image-997132076-1561055655.jpg?crop=1xw:1xh;center,top&resize=480:*"
+    },
+    {
+      "id": 9,
+      "name": "Seal",
+      "image": "http://cdn.mcstatic.com/albums/WB/l6/Dr/WBl6DrbF9X8EZj0C8l1Z00/830x4400/186782.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Bunny",
+      "image": "https://www.explosion.com/wp-content/uploads/2014/05/Facie-Selfie.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Lion",
+      "image": "https://mymodernmet.com/wp/wp-content/uploads/2017/01/animal-selfies-14.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Big Kitty",
+      "image": "https://i.chzbgr.com/full/9000394752/hE141A069/"
+    }
+  ]
