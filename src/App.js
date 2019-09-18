@@ -32,6 +32,8 @@ class App extends Component {
   
     imageClick = name => {
         if(this.state.clicked.indexOf(name)>-1){
+            
+            alert("You lost! Game Restarted.");
     
           this.setState({ 
             clicked: [],
